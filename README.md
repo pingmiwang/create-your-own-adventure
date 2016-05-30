@@ -1,3 +1,6 @@
+#make changes of the story
+hello, it is a new story
+
 # Collaborative Create-Your-Own-Adventure
 
 This is a create-your-own-adventure story where at each step, the reader chooses
